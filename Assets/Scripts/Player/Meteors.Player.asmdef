@@ -1,0 +1,16 @@
+{
+    "name": "Meteors.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c1f4b2321f5c60f4aaabda558576b18c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

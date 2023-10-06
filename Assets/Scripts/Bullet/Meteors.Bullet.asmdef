@@ -1,0 +1,17 @@
+{
+    "name": "Meteors.Bullet",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c1f4b2321f5c60f4aaabda558576b18c",
+        "GUID:92324f537ca19f2469d73b93747f8da2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
